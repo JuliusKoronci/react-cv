@@ -1,0 +1,24 @@
+.butttonAdd {
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    background: darkgreen;
+    color: white;
+    display: block;
+    float: right;
+}
+
+.form-area {
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.padding-top-bottom{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
