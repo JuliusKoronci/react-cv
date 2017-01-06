@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50e2052b-5489-49d6-a716-81987b76000f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/resumeCustom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/resume/CategorySectionForm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/resume/resumeMain.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/resume/ResumePage.js" afterPath="$PROJECT_DIR$/src/containers/resume/ResumePage.js" />
-    </list>
+    <list default="true" id="50e2052b-5489-49d6-a716-81987b76000f" name="Default" comment="" />
     <ignored path="react-cv.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -391,12 +385,12 @@
       <option name="presentableId" value="Default" />
       <updated>1483625175741</updated>
       <workItem from="1483625176900" duration="314000" />
-      <workItem from="1483691752582" duration="14369000" />
+      <workItem from="1483691752582" duration="14396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14683000" />
+    <option name="totallyTimeSpent" value="14710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
