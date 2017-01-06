@@ -13,8 +13,8 @@ class AboutPage extends Component {
     render() {
         return (
             <About {...this.state} />
-    )
-        ;
+        )
+            ;
     }
 }
 
