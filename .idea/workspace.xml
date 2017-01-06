@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50e2052b-5489-49d6-a716-81987b76000f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/about/AboutPage.js" afterPath="$PROJECT_DIR$/src/containers/about/AboutPage.js" />
-    </list>
+    <list default="true" id="50e2052b-5489-49d6-a716-81987b76000f" name="Default" comment="" />
     <ignored path="react-cv.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -221,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1483625175741</updated>
       <workItem from="1483625176900" duration="314000" />
-      <workItem from="1483691752582" duration="303000" />
+      <workItem from="1483691752582" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="617000" />
+    <option name="totallyTimeSpent" value="1230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
